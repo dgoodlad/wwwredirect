@@ -1,6 +1,6 @@
 # wwwredirector
 
-A simple HTTP(S) redirect service: prepends `www.` to any requested hostname
+HTTP(S) redirect service, prepending www to any requested hostname
 
 ## Installation
 
